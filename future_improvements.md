@@ -8,7 +8,7 @@
 
 ---
 
-# 🚀 STEP 2 — Push README to GitHub
+# STEP 2 — Push README to GitHub
 
 Run:
 
