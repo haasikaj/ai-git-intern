@@ -33,7 +33,6 @@ It simulates a real engineering team with specialized AI agents:
 
 The system generates:
 
------------------------------------------------------------------
 # AI Code Review Report
 
 ## Architecture Issues
@@ -62,7 +61,6 @@ This analysis suggests that several improvements are necessary to enhance the ma
 *   Ensure proper handling of authentication failures when using environment variables or OAuth token-based authentication.
 
 The overall structure and content are clean, professional, and easy to understand.
-----------------------------------------------------------------
 
 
 Example includes:
